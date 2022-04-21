@@ -74,7 +74,7 @@ J'essaye de trouver l'encodage de cette chaine et le ROT47 nous donne un résult
 Bon ce n'est pas le flag mais ça y ressemble.
 
 De là on a deux options :
-1. On a déjà décodéer les chaines en base64 des fichiers précédent contenant les faux flags
+1. On a déjà décodé les chaines en base64 des fichiers précédent contenant les faux flags
 2. On l'a pas fait
 
 Si on l'a fait on voit que les faux flags sont de la forme **HackFlag[xxx]**. On test de décoder avec vigenère et la clé *HACKFLAG* et ... FIN. On a le flag.
