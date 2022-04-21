@@ -55,7 +55,7 @@ Bingo le mot de passe du zip !
 
 On le décompresse et on obtient ... 19 images.
 Je mets la 1ere dans aprerisolve et il y a un fichier que l'on peut extraire avec steghide sans mot de passe, idem pour la 2e et la 3e...
-Je crée un script pour automatiser tout ça et ... retour à la case départ. Des textes une image de Rick et un readme qui nous dit :
+Je crée un script pour automatiser tout ça et ... retour à la case départ. Des textes, une image de Rick et un readme qui nous dit :
 ```
 Hey ! Tu y es presque ...
 Encore un peu de recherche :)
